@@ -147,7 +147,6 @@ class Twitter {
         imgElem.addEventListener('click', () => {
             imgUrl = prompt('введите адрем картинки')
         })
-
     }
 
 }
